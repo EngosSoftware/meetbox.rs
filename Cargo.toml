@@ -1,0 +1,11 @@
+[package]
+name = "meetbox"
+version = "0.0.1"
+authors = ["Dariusz Depta <dariusz.depta@engos.software>"]
+description = "Handshake server for WebRTC libraries"
+documentation = "https://docs.rs/meetbox"
+repository = "https://github.com/EngosSoftware/meetbox.rs.git"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
